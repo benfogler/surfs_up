@@ -10,9 +10,9 @@ December.
 ![june_statistics](https://user-images.githubusercontent.com/114610539/205526807-46ccc64c-55ca-4018-be77-e9ed42980df1.png)
 
 
-	* The average temperatures in June are slightly higher than the average temperatures in December, with the minimum temperatures in december being 12 degrees less.
-	* The upper and lower quartile temperatures are within 3 to 4 degress of each other for the months of June and December.
-	* The count of readings in June are higher than in December by nearly ~200; meaning there could be some error in averages.
+* The average temperatures in June are slightly higher than the average temperatures in December, with the minimum temperatures in december being 12 degrees less.
+* The upper and lower quartile temperatures are within 3 to 4 degress of each other for the months of June and December.
+* The count of readings in June are higher than in December by nearly ~200; meaning there could be some error in averages.
 
 ## Summary
 As identified in the analysis both months are very similar in average temperatures, but December has a tendency to have a lower minimum temp. 
